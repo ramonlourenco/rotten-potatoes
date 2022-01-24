@@ -49,7 +49,7 @@ spec:
     spec:
       containers:
       - name: web
-        image: gabriellelima1234/rotten-potatoes:v1
+        image: ramonlourenco/rotten-potatoes:v1
         ports:
           - containerPort: 5000
         env:
